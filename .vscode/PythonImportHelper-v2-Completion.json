@@ -1,0 +1,915 @@
+[
+    {
+        "label": "AudioSegment",
+        "importPath": "pydub",
+        "description": "pydub",
+        "isExtraImport": true,
+        "detail": "pydub",
+        "documentation": {}
+    },
+    {
+        "label": "AudioSegment",
+        "importPath": "pydub",
+        "description": "pydub",
+        "isExtraImport": true,
+        "detail": "pydub",
+        "documentation": {}
+    },
+    {
+        "label": "AudioSegment",
+        "importPath": "pydub",
+        "description": "pydub",
+        "isExtraImport": true,
+        "detail": "pydub",
+        "documentation": {}
+    },
+    {
+        "label": "AudioSegment",
+        "importPath": "pydub",
+        "description": "pydub",
+        "isExtraImport": true,
+        "detail": "pydub",
+        "documentation": {}
+    },
+    {
+        "label": "AudioSegment",
+        "importPath": "pydub",
+        "description": "pydub",
+        "isExtraImport": true,
+        "detail": "pydub",
+        "documentation": {}
+    },
+    {
+        "label": "AudioSegment",
+        "importPath": "pydub",
+        "description": "pydub",
+        "isExtraImport": true,
+        "detail": "pydub",
+        "documentation": {}
+    },
+    {
+        "label": "AudioSegment",
+        "importPath": "pydub",
+        "description": "pydub",
+        "isExtraImport": true,
+        "detail": "pydub",
+        "documentation": {}
+    },
+    {
+        "label": "AudioSegment",
+        "importPath": "pydub",
+        "description": "pydub",
+        "isExtraImport": true,
+        "detail": "pydub",
+        "documentation": {}
+    },
+    {
+        "label": "AudioSegment",
+        "importPath": "pydub",
+        "description": "pydub",
+        "isExtraImport": true,
+        "detail": "pydub",
+        "documentation": {}
+    },
+    {
+        "label": "AudioSegment",
+        "importPath": "pydub",
+        "description": "pydub",
+        "isExtraImport": true,
+        "detail": "pydub",
+        "documentation": {}
+    },
+    {
+        "label": "AudioSegment",
+        "importPath": "pydub",
+        "description": "pydub",
+        "isExtraImport": true,
+        "detail": "pydub",
+        "documentation": {}
+    },
+    {
+        "label": "AudioSegment",
+        "importPath": "pydub",
+        "description": "pydub",
+        "isExtraImport": true,
+        "detail": "pydub",
+        "documentation": {}
+    },
+    {
+        "label": "AudioSegment",
+        "importPath": "pydub",
+        "description": "pydub",
+        "isExtraImport": true,
+        "detail": "pydub",
+        "documentation": {}
+    },
+    {
+        "label": "AudioSegment",
+        "importPath": "pydub",
+        "description": "pydub",
+        "isExtraImport": true,
+        "detail": "pydub",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "subprocess",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "subprocess",
+        "description": "subprocess",
+        "detail": "subprocess",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "kind": 5,
+        "importPath": "assets.sexmod.sounds.girls.ellie.aftersessionmoan.renameSounds",
+        "description": "assets.sexmod.sounds.girls.ellie.aftersessionmoan.renameSounds",
+        "peekOfCode": "path = os.getcwd()\nlenght = len(path)-1\ni = lenght\nsoundName = \"\"\n# getting the sound name out of the directory\nwhile i > -1:\n\tif(path[i] != '\\\\'):\n\t\tsoundName += path[i]\n\telse:\n\t\tbreak",
+        "detail": "assets.sexmod.sounds.girls.ellie.aftersessionmoan.renameSounds",
+        "documentation": {}
+    },
+    {
+        "label": "lenght",
+        "kind": 5,
+        "importPath": "assets.sexmod.sounds.girls.ellie.aftersessionmoan.renameSounds",
+        "description": "assets.sexmod.sounds.girls.ellie.aftersessionmoan.renameSounds",
+        "peekOfCode": "lenght = len(path)-1\ni = lenght\nsoundName = \"\"\n# getting the sound name out of the directory\nwhile i > -1:\n\tif(path[i] != '\\\\'):\n\t\tsoundName += path[i]\n\telse:\n\t\tbreak\n\ti-=1",
+        "detail": "assets.sexmod.sounds.girls.ellie.aftersessionmoan.renameSounds",
+        "documentation": {}
+    },
+    {
+        "label": "i",
+        "kind": 5,
+        "importPath": "assets.sexmod.sounds.girls.ellie.aftersessionmoan.renameSounds",
+        "description": "assets.sexmod.sounds.girls.ellie.aftersessionmoan.renameSounds",
+        "peekOfCode": "i = lenght\nsoundName = \"\"\n# getting the sound name out of the directory\nwhile i > -1:\n\tif(path[i] != '\\\\'):\n\t\tsoundName += path[i]\n\telse:\n\t\tbreak\n\ti-=1\n# reverting it and putting it into lowercase",
+        "detail": "assets.sexmod.sounds.girls.ellie.aftersessionmoan.renameSounds",
+        "documentation": {}
+    },
+    {
+        "label": "soundName",
+        "kind": 5,
+        "importPath": "assets.sexmod.sounds.girls.ellie.aftersessionmoan.renameSounds",
+        "description": "assets.sexmod.sounds.girls.ellie.aftersessionmoan.renameSounds",
+        "peekOfCode": "soundName = \"\"\n# getting the sound name out of the directory\nwhile i > -1:\n\tif(path[i] != '\\\\'):\n\t\tsoundName += path[i]\n\telse:\n\t\tbreak\n\ti-=1\n# reverting it and putting it into lowercase\nsoundName = soundName[::-1].lower()",
+        "detail": "assets.sexmod.sounds.girls.ellie.aftersessionmoan.renameSounds",
+        "documentation": {}
+    },
+    {
+        "label": "soundName",
+        "kind": 5,
+        "importPath": "assets.sexmod.sounds.girls.ellie.aftersessionmoan.renameSounds",
+        "description": "assets.sexmod.sounds.girls.ellie.aftersessionmoan.renameSounds",
+        "peekOfCode": "soundName = soundName[::-1].lower()\ni = 0\n# actually renaming it\nfor file in os.listdir():\n\t# converting it into .ogg and renaming it\t\n\tif(file.endswith('.mp3')):\n\t\tAudioSegment.from_mp3(open(file, \"rb\")).export(soundName+str(i)+'.ogg', format='ogg')\n\t\tprint(\"turned \"+ file + \" into \" + soundName+str(i)+'.ogg')\n\t\tos.remove(file)\n\telif(file.endswith('.mp4')):",
+        "detail": "assets.sexmod.sounds.girls.ellie.aftersessionmoan.renameSounds",
+        "documentation": {}
+    },
+    {
+        "label": "i",
+        "kind": 5,
+        "importPath": "assets.sexmod.sounds.girls.ellie.aftersessionmoan.renameSounds",
+        "description": "assets.sexmod.sounds.girls.ellie.aftersessionmoan.renameSounds",
+        "peekOfCode": "i = 0\n# actually renaming it\nfor file in os.listdir():\n\t# converting it into .ogg and renaming it\t\n\tif(file.endswith('.mp3')):\n\t\tAudioSegment.from_mp3(open(file, \"rb\")).export(soundName+str(i)+'.ogg', format='ogg')\n\t\tprint(\"turned \"+ file + \" into \" + soundName+str(i)+'.ogg')\n\t\tos.remove(file)\n\telif(file.endswith('.mp4')):\n\t\tAudioSegment.from_file(file, \"mp4\").export(soundName+str(i)+'.ogg', format='ogg')",
+        "detail": "assets.sexmod.sounds.girls.ellie.aftersessionmoan.renameSounds",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "kind": 5,
+        "importPath": "assets.sexmod.sounds.girls.ellie.ahh.renameSounds",
+        "description": "assets.sexmod.sounds.girls.ellie.ahh.renameSounds",
+        "peekOfCode": "path = os.getcwd()\nlenght = len(path)-1\ni = lenght\nsoundName = \"\"\n# getting the sound name out of the directory\nwhile i > -1:\n\tif(path[i] != '\\\\'):\n\t\tsoundName += path[i]\n\telse:\n\t\tbreak",
+        "detail": "assets.sexmod.sounds.girls.ellie.ahh.renameSounds",
+        "documentation": {}
+    },
+    {
+        "label": "lenght",
+        "kind": 5,
+        "importPath": "assets.sexmod.sounds.girls.ellie.ahh.renameSounds",
+        "description": "assets.sexmod.sounds.girls.ellie.ahh.renameSounds",
+        "peekOfCode": "lenght = len(path)-1\ni = lenght\nsoundName = \"\"\n# getting the sound name out of the directory\nwhile i > -1:\n\tif(path[i] != '\\\\'):\n\t\tsoundName += path[i]\n\telse:\n\t\tbreak\n\ti-=1",
+        "detail": "assets.sexmod.sounds.girls.ellie.ahh.renameSounds",
+        "documentation": {}
+    },
+    {
+        "label": "i",
+        "kind": 5,
+        "importPath": "assets.sexmod.sounds.girls.ellie.ahh.renameSounds",
+        "description": "assets.sexmod.sounds.girls.ellie.ahh.renameSounds",
+        "peekOfCode": "i = lenght\nsoundName = \"\"\n# getting the sound name out of the directory\nwhile i > -1:\n\tif(path[i] != '\\\\'):\n\t\tsoundName += path[i]\n\telse:\n\t\tbreak\n\ti-=1\n# reverting it and putting it into lowercase",
+        "detail": "assets.sexmod.sounds.girls.ellie.ahh.renameSounds",
+        "documentation": {}
+    },
+    {
+        "label": "soundName",
+        "kind": 5,
+        "importPath": "assets.sexmod.sounds.girls.ellie.ahh.renameSounds",
+        "description": "assets.sexmod.sounds.girls.ellie.ahh.renameSounds",
+        "peekOfCode": "soundName = \"\"\n# getting the sound name out of the directory\nwhile i > -1:\n\tif(path[i] != '\\\\'):\n\t\tsoundName += path[i]\n\telse:\n\t\tbreak\n\ti-=1\n# reverting it and putting it into lowercase\nsoundName = soundName[::-1].lower()",
+        "detail": "assets.sexmod.sounds.girls.ellie.ahh.renameSounds",
+        "documentation": {}
+    },
+    {
+        "label": "soundName",
+        "kind": 5,
+        "importPath": "assets.sexmod.sounds.girls.ellie.ahh.renameSounds",
+        "description": "assets.sexmod.sounds.girls.ellie.ahh.renameSounds",
+        "peekOfCode": "soundName = soundName[::-1].lower()\ni = 0\n# actually renaming it\nfor file in os.listdir():\n\t# converting it into .ogg and renaming it\t\n\tif(file.endswith('.mp3')):\n\t\tAudioSegment.from_mp3(open(file, \"rb\")).export(soundName+str(i)+'.ogg', format='ogg')\n\t\tprint(\"turned \"+ file + \" into \" + soundName+str(i)+'.ogg')\n\t\tos.remove(file)\n\telif(file.endswith('.mp4')):",
+        "detail": "assets.sexmod.sounds.girls.ellie.ahh.renameSounds",
+        "documentation": {}
+    },
+    {
+        "label": "i",
+        "kind": 5,
+        "importPath": "assets.sexmod.sounds.girls.ellie.ahh.renameSounds",
+        "description": "assets.sexmod.sounds.girls.ellie.ahh.renameSounds",
+        "peekOfCode": "i = 0\n# actually renaming it\nfor file in os.listdir():\n\t# converting it into .ogg and renaming it\t\n\tif(file.endswith('.mp3')):\n\t\tAudioSegment.from_mp3(open(file, \"rb\")).export(soundName+str(i)+'.ogg', format='ogg')\n\t\tprint(\"turned \"+ file + \" into \" + soundName+str(i)+'.ogg')\n\t\tos.remove(file)\n\telif(file.endswith('.mp4')):\n\t\tAudioSegment.from_file(file, \"mp4\").export(soundName+str(i)+'.ogg', format='ogg')",
+        "detail": "assets.sexmod.sounds.girls.ellie.ahh.renameSounds",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "kind": 5,
+        "importPath": "assets.sexmod.sounds.girls.ellie.bjmoan.renameSounds",
+        "description": "assets.sexmod.sounds.girls.ellie.bjmoan.renameSounds",
+        "peekOfCode": "path = os.getcwd()\nlenght = len(path)-1\ni = lenght\nsoundName = \"\"\n# getting the sound name out of the directory\nwhile i > -1:\n\tif(path[i] != '\\\\'):\n\t\tsoundName += path[i]\n\telse:\n\t\tbreak",
+        "detail": "assets.sexmod.sounds.girls.ellie.bjmoan.renameSounds",
+        "documentation": {}
+    },
+    {
+        "label": "lenght",
+        "kind": 5,
+        "importPath": "assets.sexmod.sounds.girls.ellie.bjmoan.renameSounds",
+        "description": "assets.sexmod.sounds.girls.ellie.bjmoan.renameSounds",
+        "peekOfCode": "lenght = len(path)-1\ni = lenght\nsoundName = \"\"\n# getting the sound name out of the directory\nwhile i > -1:\n\tif(path[i] != '\\\\'):\n\t\tsoundName += path[i]\n\telse:\n\t\tbreak\n\ti-=1",
+        "detail": "assets.sexmod.sounds.girls.ellie.bjmoan.renameSounds",
+        "documentation": {}
+    },
+    {
+        "label": "i",
+        "kind": 5,
+        "importPath": "assets.sexmod.sounds.girls.ellie.bjmoan.renameSounds",
+        "description": "assets.sexmod.sounds.girls.ellie.bjmoan.renameSounds",
+        "peekOfCode": "i = lenght\nsoundName = \"\"\n# getting the sound name out of the directory\nwhile i > -1:\n\tif(path[i] != '\\\\'):\n\t\tsoundName += path[i]\n\telse:\n\t\tbreak\n\ti-=1\n# reverting it and putting it into lowercase",
+        "detail": "assets.sexmod.sounds.girls.ellie.bjmoan.renameSounds",
+        "documentation": {}
+    },
+    {
+        "label": "soundName",
+        "kind": 5,
+        "importPath": "assets.sexmod.sounds.girls.ellie.bjmoan.renameSounds",
+        "description": "assets.sexmod.sounds.girls.ellie.bjmoan.renameSounds",
+        "peekOfCode": "soundName = \"\"\n# getting the sound name out of the directory\nwhile i > -1:\n\tif(path[i] != '\\\\'):\n\t\tsoundName += path[i]\n\telse:\n\t\tbreak\n\ti-=1\n# reverting it and putting it into lowercase\nsoundName = soundName[::-1].lower()",
+        "detail": "assets.sexmod.sounds.girls.ellie.bjmoan.renameSounds",
+        "documentation": {}
+    },
+    {
+        "label": "soundName",
+        "kind": 5,
+        "importPath": "assets.sexmod.sounds.girls.ellie.bjmoan.renameSounds",
+        "description": "assets.sexmod.sounds.girls.ellie.bjmoan.renameSounds",
+        "peekOfCode": "soundName = soundName[::-1].lower()\ni = 0\n# actually renaming it\nfor file in os.listdir():\n\t# converting it into .ogg and renaming it\t\n\tif(file.endswith('.mp3')):\n\t\tAudioSegment.from_mp3(open(file, \"rb\")).export(soundName+str(i)+'.ogg', format='ogg')\n\t\tprint(\"turned \"+ file + \" into \" + soundName+str(i)+'.ogg')\n\t\tos.remove(file)\n\telif(file.endswith('.mp4')):",
+        "detail": "assets.sexmod.sounds.girls.ellie.bjmoan.renameSounds",
+        "documentation": {}
+    },
+    {
+        "label": "i",
+        "kind": 5,
+        "importPath": "assets.sexmod.sounds.girls.ellie.bjmoan.renameSounds",
+        "description": "assets.sexmod.sounds.girls.ellie.bjmoan.renameSounds",
+        "peekOfCode": "i = 0\n# actually renaming it\nfor file in os.listdir():\n\t# converting it into .ogg and renaming it\t\n\tif(file.endswith('.mp3')):\n\t\tAudioSegment.from_mp3(open(file, \"rb\")).export(soundName+str(i)+'.ogg', format='ogg')\n\t\tprint(\"turned \"+ file + \" into \" + soundName+str(i)+'.ogg')\n\t\tos.remove(file)\n\telif(file.endswith('.mp4')):\n\t\tAudioSegment.from_file(file, \"mp4\").export(soundName+str(i)+'.ogg', format='ogg')",
+        "detail": "assets.sexmod.sounds.girls.ellie.bjmoan.renameSounds",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "kind": 5,
+        "importPath": "assets.sexmod.sounds.girls.ellie.giggle.renameSounds",
+        "description": "assets.sexmod.sounds.girls.ellie.giggle.renameSounds",
+        "peekOfCode": "path = os.getcwd()\nlenght = len(path)-1\ni = lenght\nsoundName = \"\"\n# getting the sound name out of the directory\nwhile i > -1:\n\tif(path[i] != '\\\\'):\n\t\tsoundName += path[i]\n\telse:\n\t\tbreak",
+        "detail": "assets.sexmod.sounds.girls.ellie.giggle.renameSounds",
+        "documentation": {}
+    },
+    {
+        "label": "lenght",
+        "kind": 5,
+        "importPath": "assets.sexmod.sounds.girls.ellie.giggle.renameSounds",
+        "description": "assets.sexmod.sounds.girls.ellie.giggle.renameSounds",
+        "peekOfCode": "lenght = len(path)-1\ni = lenght\nsoundName = \"\"\n# getting the sound name out of the directory\nwhile i > -1:\n\tif(path[i] != '\\\\'):\n\t\tsoundName += path[i]\n\telse:\n\t\tbreak\n\ti-=1",
+        "detail": "assets.sexmod.sounds.girls.ellie.giggle.renameSounds",
+        "documentation": {}
+    },
+    {
+        "label": "i",
+        "kind": 5,
+        "importPath": "assets.sexmod.sounds.girls.ellie.giggle.renameSounds",
+        "description": "assets.sexmod.sounds.girls.ellie.giggle.renameSounds",
+        "peekOfCode": "i = lenght\nsoundName = \"\"\n# getting the sound name out of the directory\nwhile i > -1:\n\tif(path[i] != '\\\\'):\n\t\tsoundName += path[i]\n\telse:\n\t\tbreak\n\ti-=1\n# reverting it and putting it into lowercase",
+        "detail": "assets.sexmod.sounds.girls.ellie.giggle.renameSounds",
+        "documentation": {}
+    },
+    {
+        "label": "soundName",
+        "kind": 5,
+        "importPath": "assets.sexmod.sounds.girls.ellie.giggle.renameSounds",
+        "description": "assets.sexmod.sounds.girls.ellie.giggle.renameSounds",
+        "peekOfCode": "soundName = \"\"\n# getting the sound name out of the directory\nwhile i > -1:\n\tif(path[i] != '\\\\'):\n\t\tsoundName += path[i]\n\telse:\n\t\tbreak\n\ti-=1\n# reverting it and putting it into lowercase\nsoundName = soundName[::-1].lower()",
+        "detail": "assets.sexmod.sounds.girls.ellie.giggle.renameSounds",
+        "documentation": {}
+    },
+    {
+        "label": "soundName",
+        "kind": 5,
+        "importPath": "assets.sexmod.sounds.girls.ellie.giggle.renameSounds",
+        "description": "assets.sexmod.sounds.girls.ellie.giggle.renameSounds",
+        "peekOfCode": "soundName = soundName[::-1].lower()\ni = 0\n# actually renaming it\nfor file in os.listdir():\n\t# converting it into .ogg and renaming it\t\n\tif(file.endswith('.mp3')):\n\t\tAudioSegment.from_mp3(open(file, \"rb\")).export(soundName+str(i)+'.ogg', format='ogg')\n\t\tprint(\"turned \"+ file + \" into \" + soundName+str(i)+'.ogg')\n\t\tos.remove(file)\n\telif(file.endswith('.mp4')):",
+        "detail": "assets.sexmod.sounds.girls.ellie.giggle.renameSounds",
+        "documentation": {}
+    },
+    {
+        "label": "i",
+        "kind": 5,
+        "importPath": "assets.sexmod.sounds.girls.ellie.giggle.renameSounds",
+        "description": "assets.sexmod.sounds.girls.ellie.giggle.renameSounds",
+        "peekOfCode": "i = 0\n# actually renaming it\nfor file in os.listdir():\n\t# converting it into .ogg and renaming it\t\n\tif(file.endswith('.mp3')):\n\t\tAudioSegment.from_mp3(open(file, \"rb\")).export(soundName+str(i)+'.ogg', format='ogg')\n\t\tprint(\"turned \"+ file + \" into \" + soundName+str(i)+'.ogg')\n\t\tos.remove(file)\n\telif(file.endswith('.mp4')):\n\t\tAudioSegment.from_file(file, \"mp4\").export(soundName+str(i)+'.ogg', format='ogg')",
+        "detail": "assets.sexmod.sounds.girls.ellie.giggle.renameSounds",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "kind": 5,
+        "importPath": "assets.sexmod.sounds.girls.ellie.happyoh.renameSounds",
+        "description": "assets.sexmod.sounds.girls.ellie.happyoh.renameSounds",
+        "peekOfCode": "path = os.getcwd()\nlenght = len(path)-1\ni = lenght\nsoundName = \"\"\n# getting the sound name out of the directory\nwhile i > -1:\n\tif(path[i] != '\\\\'):\n\t\tsoundName += path[i]\n\telse:\n\t\tbreak",
+        "detail": "assets.sexmod.sounds.girls.ellie.happyoh.renameSounds",
+        "documentation": {}
+    },
+    {
+        "label": "lenght",
+        "kind": 5,
+        "importPath": "assets.sexmod.sounds.girls.ellie.happyoh.renameSounds",
+        "description": "assets.sexmod.sounds.girls.ellie.happyoh.renameSounds",
+        "peekOfCode": "lenght = len(path)-1\ni = lenght\nsoundName = \"\"\n# getting the sound name out of the directory\nwhile i > -1:\n\tif(path[i] != '\\\\'):\n\t\tsoundName += path[i]\n\telse:\n\t\tbreak\n\ti-=1",
+        "detail": "assets.sexmod.sounds.girls.ellie.happyoh.renameSounds",
+        "documentation": {}
+    },
+    {
+        "label": "i",
+        "kind": 5,
+        "importPath": "assets.sexmod.sounds.girls.ellie.happyoh.renameSounds",
+        "description": "assets.sexmod.sounds.girls.ellie.happyoh.renameSounds",
+        "peekOfCode": "i = lenght\nsoundName = \"\"\n# getting the sound name out of the directory\nwhile i > -1:\n\tif(path[i] != '\\\\'):\n\t\tsoundName += path[i]\n\telse:\n\t\tbreak\n\ti-=1\n# reverting it and putting it into lowercase",
+        "detail": "assets.sexmod.sounds.girls.ellie.happyoh.renameSounds",
+        "documentation": {}
+    },
+    {
+        "label": "soundName",
+        "kind": 5,
+        "importPath": "assets.sexmod.sounds.girls.ellie.happyoh.renameSounds",
+        "description": "assets.sexmod.sounds.girls.ellie.happyoh.renameSounds",
+        "peekOfCode": "soundName = \"\"\n# getting the sound name out of the directory\nwhile i > -1:\n\tif(path[i] != '\\\\'):\n\t\tsoundName += path[i]\n\telse:\n\t\tbreak\n\ti-=1\n# reverting it and putting it into lowercase\nsoundName = soundName[::-1].lower()",
+        "detail": "assets.sexmod.sounds.girls.ellie.happyoh.renameSounds",
+        "documentation": {}
+    },
+    {
+        "label": "soundName",
+        "kind": 5,
+        "importPath": "assets.sexmod.sounds.girls.ellie.happyoh.renameSounds",
+        "description": "assets.sexmod.sounds.girls.ellie.happyoh.renameSounds",
+        "peekOfCode": "soundName = soundName[::-1].lower()\ni = 0\n# actually renaming it\nfor file in os.listdir():\n\t# converting it into .ogg and renaming it\t\n\tif(file.endswith('.mp3')):\n\t\tAudioSegment.from_mp3(open(file, \"rb\")).export(soundName+str(i)+'.ogg', format='ogg')\n\t\tprint(\"turned \"+ file + \" into \" + soundName+str(i)+'.ogg')\n\t\tos.remove(file)\n\telif(file.endswith('.mp4')):",
+        "detail": "assets.sexmod.sounds.girls.ellie.happyoh.renameSounds",
+        "documentation": {}
+    },
+    {
+        "label": "i",
+        "kind": 5,
+        "importPath": "assets.sexmod.sounds.girls.ellie.happyoh.renameSounds",
+        "description": "assets.sexmod.sounds.girls.ellie.happyoh.renameSounds",
+        "peekOfCode": "i = 0\n# actually renaming it\nfor file in os.listdir():\n\t# converting it into .ogg and renaming it\t\n\tif(file.endswith('.mp3')):\n\t\tAudioSegment.from_mp3(open(file, \"rb\")).export(soundName+str(i)+'.ogg', format='ogg')\n\t\tprint(\"turned \"+ file + \" into \" + soundName+str(i)+'.ogg')\n\t\tos.remove(file)\n\telif(file.endswith('.mp4')):\n\t\tAudioSegment.from_file(file, \"mp4\").export(soundName+str(i)+'.ogg', format='ogg')",
+        "detail": "assets.sexmod.sounds.girls.ellie.happyoh.renameSounds",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "kind": 5,
+        "importPath": "assets.sexmod.sounds.girls.ellie.heavybreathing.renameSounds",
+        "description": "assets.sexmod.sounds.girls.ellie.heavybreathing.renameSounds",
+        "peekOfCode": "path = os.getcwd()\nlenght = len(path)-1\ni = lenght\nsoundName = \"\"\n# getting the sound name out of the directory\nwhile i > -1:\n\tif(path[i] != '\\\\'):\n\t\tsoundName += path[i]\n\telse:\n\t\tbreak",
+        "detail": "assets.sexmod.sounds.girls.ellie.heavybreathing.renameSounds",
+        "documentation": {}
+    },
+    {
+        "label": "lenght",
+        "kind": 5,
+        "importPath": "assets.sexmod.sounds.girls.ellie.heavybreathing.renameSounds",
+        "description": "assets.sexmod.sounds.girls.ellie.heavybreathing.renameSounds",
+        "peekOfCode": "lenght = len(path)-1\ni = lenght\nsoundName = \"\"\n# getting the sound name out of the directory\nwhile i > -1:\n\tif(path[i] != '\\\\'):\n\t\tsoundName += path[i]\n\telse:\n\t\tbreak\n\ti-=1",
+        "detail": "assets.sexmod.sounds.girls.ellie.heavybreathing.renameSounds",
+        "documentation": {}
+    },
+    {
+        "label": "i",
+        "kind": 5,
+        "importPath": "assets.sexmod.sounds.girls.ellie.heavybreathing.renameSounds",
+        "description": "assets.sexmod.sounds.girls.ellie.heavybreathing.renameSounds",
+        "peekOfCode": "i = lenght\nsoundName = \"\"\n# getting the sound name out of the directory\nwhile i > -1:\n\tif(path[i] != '\\\\'):\n\t\tsoundName += path[i]\n\telse:\n\t\tbreak\n\ti-=1\n# reverting it and putting it into lowercase",
+        "detail": "assets.sexmod.sounds.girls.ellie.heavybreathing.renameSounds",
+        "documentation": {}
+    },
+    {
+        "label": "soundName",
+        "kind": 5,
+        "importPath": "assets.sexmod.sounds.girls.ellie.heavybreathing.renameSounds",
+        "description": "assets.sexmod.sounds.girls.ellie.heavybreathing.renameSounds",
+        "peekOfCode": "soundName = \"\"\n# getting the sound name out of the directory\nwhile i > -1:\n\tif(path[i] != '\\\\'):\n\t\tsoundName += path[i]\n\telse:\n\t\tbreak\n\ti-=1\n# reverting it and putting it into lowercase\nsoundName = soundName[::-1].lower()",
+        "detail": "assets.sexmod.sounds.girls.ellie.heavybreathing.renameSounds",
+        "documentation": {}
+    },
+    {
+        "label": "soundName",
+        "kind": 5,
+        "importPath": "assets.sexmod.sounds.girls.ellie.heavybreathing.renameSounds",
+        "description": "assets.sexmod.sounds.girls.ellie.heavybreathing.renameSounds",
+        "peekOfCode": "soundName = soundName[::-1].lower()\ni = 0\n# actually renaming it\nfor file in os.listdir():\n\t# converting it into .ogg and renaming it\t\n\tif(file.endswith('.mp3')):\n\t\tAudioSegment.from_mp3(open(file, \"rb\")).export(soundName+str(i)+'.ogg', format='ogg')\n\t\tprint(\"turned \"+ file + \" into \" + soundName+str(i)+'.ogg')\n\t\tos.remove(file)\n\telif(file.endswith('.mp4')):",
+        "detail": "assets.sexmod.sounds.girls.ellie.heavybreathing.renameSounds",
+        "documentation": {}
+    },
+    {
+        "label": "i",
+        "kind": 5,
+        "importPath": "assets.sexmod.sounds.girls.ellie.heavybreathing.renameSounds",
+        "description": "assets.sexmod.sounds.girls.ellie.heavybreathing.renameSounds",
+        "peekOfCode": "i = 0\n# actually renaming it\nfor file in os.listdir():\n\t# converting it into .ogg and renaming it\t\n\tif(file.endswith('.mp3')):\n\t\tAudioSegment.from_mp3(open(file, \"rb\")).export(soundName+str(i)+'.ogg', format='ogg')\n\t\tprint(\"turned \"+ file + \" into \" + soundName+str(i)+'.ogg')\n\t\tos.remove(file)\n\telif(file.endswith('.mp4')):\n\t\tAudioSegment.from_file(file, \"mp4\").export(soundName+str(i)+'.ogg', format='ogg')",
+        "detail": "assets.sexmod.sounds.girls.ellie.heavybreathing.renameSounds",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "kind": 5,
+        "importPath": "assets.sexmod.sounds.girls.ellie.huh.renameSounds",
+        "description": "assets.sexmod.sounds.girls.ellie.huh.renameSounds",
+        "peekOfCode": "path = os.getcwd()\nlenght = len(path)-1\ni = lenght\nsoundName = \"\"\n# getting the sound name out of the directory\nwhile i > -1:\n\tif(path[i] != '\\\\'):\n\t\tsoundName += path[i]\n\telse:\n\t\tbreak",
+        "detail": "assets.sexmod.sounds.girls.ellie.huh.renameSounds",
+        "documentation": {}
+    },
+    {
+        "label": "lenght",
+        "kind": 5,
+        "importPath": "assets.sexmod.sounds.girls.ellie.huh.renameSounds",
+        "description": "assets.sexmod.sounds.girls.ellie.huh.renameSounds",
+        "peekOfCode": "lenght = len(path)-1\ni = lenght\nsoundName = \"\"\n# getting the sound name out of the directory\nwhile i > -1:\n\tif(path[i] != '\\\\'):\n\t\tsoundName += path[i]\n\telse:\n\t\tbreak\n\ti-=1",
+        "detail": "assets.sexmod.sounds.girls.ellie.huh.renameSounds",
+        "documentation": {}
+    },
+    {
+        "label": "i",
+        "kind": 5,
+        "importPath": "assets.sexmod.sounds.girls.ellie.huh.renameSounds",
+        "description": "assets.sexmod.sounds.girls.ellie.huh.renameSounds",
+        "peekOfCode": "i = lenght\nsoundName = \"\"\n# getting the sound name out of the directory\nwhile i > -1:\n\tif(path[i] != '\\\\'):\n\t\tsoundName += path[i]\n\telse:\n\t\tbreak\n\ti-=1\n# reverting it and putting it into lowercase",
+        "detail": "assets.sexmod.sounds.girls.ellie.huh.renameSounds",
+        "documentation": {}
+    },
+    {
+        "label": "soundName",
+        "kind": 5,
+        "importPath": "assets.sexmod.sounds.girls.ellie.huh.renameSounds",
+        "description": "assets.sexmod.sounds.girls.ellie.huh.renameSounds",
+        "peekOfCode": "soundName = \"\"\n# getting the sound name out of the directory\nwhile i > -1:\n\tif(path[i] != '\\\\'):\n\t\tsoundName += path[i]\n\telse:\n\t\tbreak\n\ti-=1\n# reverting it and putting it into lowercase\nsoundName = soundName[::-1].lower()",
+        "detail": "assets.sexmod.sounds.girls.ellie.huh.renameSounds",
+        "documentation": {}
+    },
+    {
+        "label": "soundName",
+        "kind": 5,
+        "importPath": "assets.sexmod.sounds.girls.ellie.huh.renameSounds",
+        "description": "assets.sexmod.sounds.girls.ellie.huh.renameSounds",
+        "peekOfCode": "soundName = soundName[::-1].lower()\ni = 0\n# actually renaming it\nfor file in os.listdir():\n\t# converting it into .ogg and renaming it\t\n\tif(file.endswith('.mp3')):\n\t\tAudioSegment.from_mp3(open(file, \"rb\")).export(soundName+str(i)+'.ogg', format='ogg')\n\t\tprint(\"turned \"+ file + \" into \" + soundName+str(i)+'.ogg')\n\t\tos.remove(file)\n\telif(file.endswith('.mp4')):",
+        "detail": "assets.sexmod.sounds.girls.ellie.huh.renameSounds",
+        "documentation": {}
+    },
+    {
+        "label": "i",
+        "kind": 5,
+        "importPath": "assets.sexmod.sounds.girls.ellie.huh.renameSounds",
+        "description": "assets.sexmod.sounds.girls.ellie.huh.renameSounds",
+        "peekOfCode": "i = 0\n# actually renaming it\nfor file in os.listdir():\n\t# converting it into .ogg and renaming it\t\n\tif(file.endswith('.mp3')):\n\t\tAudioSegment.from_mp3(open(file, \"rb\")).export(soundName+str(i)+'.ogg', format='ogg')\n\t\tprint(\"turned \"+ file + \" into \" + soundName+str(i)+'.ogg')\n\t\tos.remove(file)\n\telif(file.endswith('.mp4')):\n\t\tAudioSegment.from_file(file, \"mp4\").export(soundName+str(i)+'.ogg', format='ogg')",
+        "detail": "assets.sexmod.sounds.girls.ellie.huh.renameSounds",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "kind": 5,
+        "importPath": "assets.sexmod.sounds.girls.ellie.lightbreathing.renameSounds",
+        "description": "assets.sexmod.sounds.girls.ellie.lightbreathing.renameSounds",
+        "peekOfCode": "path = os.getcwd()\nlenght = len(path)-1\ni = lenght\nsoundName = \"\"\n# getting the sound name out of the directory\nwhile i > -1:\n\tif(path[i] != '\\\\'):\n\t\tsoundName += path[i]\n\telse:\n\t\tbreak",
+        "detail": "assets.sexmod.sounds.girls.ellie.lightbreathing.renameSounds",
+        "documentation": {}
+    },
+    {
+        "label": "lenght",
+        "kind": 5,
+        "importPath": "assets.sexmod.sounds.girls.ellie.lightbreathing.renameSounds",
+        "description": "assets.sexmod.sounds.girls.ellie.lightbreathing.renameSounds",
+        "peekOfCode": "lenght = len(path)-1\ni = lenght\nsoundName = \"\"\n# getting the sound name out of the directory\nwhile i > -1:\n\tif(path[i] != '\\\\'):\n\t\tsoundName += path[i]\n\telse:\n\t\tbreak\n\ti-=1",
+        "detail": "assets.sexmod.sounds.girls.ellie.lightbreathing.renameSounds",
+        "documentation": {}
+    },
+    {
+        "label": "i",
+        "kind": 5,
+        "importPath": "assets.sexmod.sounds.girls.ellie.lightbreathing.renameSounds",
+        "description": "assets.sexmod.sounds.girls.ellie.lightbreathing.renameSounds",
+        "peekOfCode": "i = lenght\nsoundName = \"\"\n# getting the sound name out of the directory\nwhile i > -1:\n\tif(path[i] != '\\\\'):\n\t\tsoundName += path[i]\n\telse:\n\t\tbreak\n\ti-=1\n# reverting it and putting it into lowercase",
+        "detail": "assets.sexmod.sounds.girls.ellie.lightbreathing.renameSounds",
+        "documentation": {}
+    },
+    {
+        "label": "soundName",
+        "kind": 5,
+        "importPath": "assets.sexmod.sounds.girls.ellie.lightbreathing.renameSounds",
+        "description": "assets.sexmod.sounds.girls.ellie.lightbreathing.renameSounds",
+        "peekOfCode": "soundName = \"\"\n# getting the sound name out of the directory\nwhile i > -1:\n\tif(path[i] != '\\\\'):\n\t\tsoundName += path[i]\n\telse:\n\t\tbreak\n\ti-=1\n# reverting it and putting it into lowercase\nsoundName = soundName[::-1].lower()",
+        "detail": "assets.sexmod.sounds.girls.ellie.lightbreathing.renameSounds",
+        "documentation": {}
+    },
+    {
+        "label": "soundName",
+        "kind": 5,
+        "importPath": "assets.sexmod.sounds.girls.ellie.lightbreathing.renameSounds",
+        "description": "assets.sexmod.sounds.girls.ellie.lightbreathing.renameSounds",
+        "peekOfCode": "soundName = soundName[::-1].lower()\ni = 0\n# actually renaming it\nfor file in os.listdir():\n\t# converting it into .ogg and renaming it\t\n\tif(file.endswith('.mp3')):\n\t\tAudioSegment.from_mp3(open(file, \"rb\")).export(soundName+str(i)+'.ogg', format='ogg')\n\t\tprint(\"turned \"+ file + \" into \" + soundName+str(i)+'.ogg')\n\t\tos.remove(file)\n\telif(file.endswith('.mp4')):",
+        "detail": "assets.sexmod.sounds.girls.ellie.lightbreathing.renameSounds",
+        "documentation": {}
+    },
+    {
+        "label": "i",
+        "kind": 5,
+        "importPath": "assets.sexmod.sounds.girls.ellie.lightbreathing.renameSounds",
+        "description": "assets.sexmod.sounds.girls.ellie.lightbreathing.renameSounds",
+        "peekOfCode": "i = 0\n# actually renaming it\nfor file in os.listdir():\n\t# converting it into .ogg and renaming it\t\n\tif(file.endswith('.mp3')):\n\t\tAudioSegment.from_mp3(open(file, \"rb\")).export(soundName+str(i)+'.ogg', format='ogg')\n\t\tprint(\"turned \"+ file + \" into \" + soundName+str(i)+'.ogg')\n\t\tos.remove(file)\n\telif(file.endswith('.mp4')):\n\t\tAudioSegment.from_file(file, \"mp4\").export(soundName+str(i)+'.ogg', format='ogg')",
+        "detail": "assets.sexmod.sounds.girls.ellie.lightbreathing.renameSounds",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "kind": 5,
+        "importPath": "assets.sexmod.sounds.girls.ellie.lipsound.renameSounds",
+        "description": "assets.sexmod.sounds.girls.ellie.lipsound.renameSounds",
+        "peekOfCode": "path = os.getcwd()\nlenght = len(path)-1\ni = lenght\nsoundName = \"\"\n# getting the sound name out of the directory\nwhile i > -1:\n\tif(path[i] != '\\\\'):\n\t\tsoundName += path[i]\n\telse:\n\t\tbreak",
+        "detail": "assets.sexmod.sounds.girls.ellie.lipsound.renameSounds",
+        "documentation": {}
+    },
+    {
+        "label": "lenght",
+        "kind": 5,
+        "importPath": "assets.sexmod.sounds.girls.ellie.lipsound.renameSounds",
+        "description": "assets.sexmod.sounds.girls.ellie.lipsound.renameSounds",
+        "peekOfCode": "lenght = len(path)-1\ni = lenght\nsoundName = \"\"\n# getting the sound name out of the directory\nwhile i > -1:\n\tif(path[i] != '\\\\'):\n\t\tsoundName += path[i]\n\telse:\n\t\tbreak\n\ti-=1",
+        "detail": "assets.sexmod.sounds.girls.ellie.lipsound.renameSounds",
+        "documentation": {}
+    },
+    {
+        "label": "i",
+        "kind": 5,
+        "importPath": "assets.sexmod.sounds.girls.ellie.lipsound.renameSounds",
+        "description": "assets.sexmod.sounds.girls.ellie.lipsound.renameSounds",
+        "peekOfCode": "i = lenght\nsoundName = \"\"\n# getting the sound name out of the directory\nwhile i > -1:\n\tif(path[i] != '\\\\'):\n\t\tsoundName += path[i]\n\telse:\n\t\tbreak\n\ti-=1\n# reverting it and putting it into lowercase",
+        "detail": "assets.sexmod.sounds.girls.ellie.lipsound.renameSounds",
+        "documentation": {}
+    },
+    {
+        "label": "soundName",
+        "kind": 5,
+        "importPath": "assets.sexmod.sounds.girls.ellie.lipsound.renameSounds",
+        "description": "assets.sexmod.sounds.girls.ellie.lipsound.renameSounds",
+        "peekOfCode": "soundName = \"\"\n# getting the sound name out of the directory\nwhile i > -1:\n\tif(path[i] != '\\\\'):\n\t\tsoundName += path[i]\n\telse:\n\t\tbreak\n\ti-=1\n# reverting it and putting it into lowercase\nsoundName = soundName[::-1].lower()",
+        "detail": "assets.sexmod.sounds.girls.ellie.lipsound.renameSounds",
+        "documentation": {}
+    },
+    {
+        "label": "soundName",
+        "kind": 5,
+        "importPath": "assets.sexmod.sounds.girls.ellie.lipsound.renameSounds",
+        "description": "assets.sexmod.sounds.girls.ellie.lipsound.renameSounds",
+        "peekOfCode": "soundName = soundName[::-1].lower()\ni = 0\n# actually renaming it\nfor file in os.listdir():\n\t# converting it into .ogg and renaming it\t\n\tif(file.endswith('.mp3')):\n\t\tAudioSegment.from_mp3(open(file, \"rb\")).export(soundName+str(i)+'.ogg', format='ogg')\n\t\tprint(\"turned \"+ file + \" into \" + soundName+str(i)+'.ogg')\n\t\tos.remove(file)\n\telif(file.endswith('.mp4')):",
+        "detail": "assets.sexmod.sounds.girls.ellie.lipsound.renameSounds",
+        "documentation": {}
+    },
+    {
+        "label": "i",
+        "kind": 5,
+        "importPath": "assets.sexmod.sounds.girls.ellie.lipsound.renameSounds",
+        "description": "assets.sexmod.sounds.girls.ellie.lipsound.renameSounds",
+        "peekOfCode": "i = 0\n# actually renaming it\nfor file in os.listdir():\n\t# converting it into .ogg and renaming it\t\n\tif(file.endswith('.mp3')):\n\t\tAudioSegment.from_mp3(open(file, \"rb\")).export(soundName+str(i)+'.ogg', format='ogg')\n\t\tprint(\"turned \"+ file + \" into \" + soundName+str(i)+'.ogg')\n\t\tos.remove(file)\n\telif(file.endswith('.mp4')):\n\t\tAudioSegment.from_file(file, \"mp4\").export(soundName+str(i)+'.ogg', format='ogg')",
+        "detail": "assets.sexmod.sounds.girls.ellie.lipsound.renameSounds",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "kind": 5,
+        "importPath": "assets.sexmod.sounds.girls.ellie.moan.renameSounds",
+        "description": "assets.sexmod.sounds.girls.ellie.moan.renameSounds",
+        "peekOfCode": "path = os.getcwd()\nlenght = len(path)-1\ni = lenght\nsoundName = \"\"\n# getting the sound name out of the directory\nwhile i > -1:\n\tif(path[i] != '\\\\'):\n\t\tsoundName += path[i]\n\telse:\n\t\tbreak",
+        "detail": "assets.sexmod.sounds.girls.ellie.moan.renameSounds",
+        "documentation": {}
+    },
+    {
+        "label": "lenght",
+        "kind": 5,
+        "importPath": "assets.sexmod.sounds.girls.ellie.moan.renameSounds",
+        "description": "assets.sexmod.sounds.girls.ellie.moan.renameSounds",
+        "peekOfCode": "lenght = len(path)-1\ni = lenght\nsoundName = \"\"\n# getting the sound name out of the directory\nwhile i > -1:\n\tif(path[i] != '\\\\'):\n\t\tsoundName += path[i]\n\telse:\n\t\tbreak\n\ti-=1",
+        "detail": "assets.sexmod.sounds.girls.ellie.moan.renameSounds",
+        "documentation": {}
+    },
+    {
+        "label": "i",
+        "kind": 5,
+        "importPath": "assets.sexmod.sounds.girls.ellie.moan.renameSounds",
+        "description": "assets.sexmod.sounds.girls.ellie.moan.renameSounds",
+        "peekOfCode": "i = lenght\nsoundName = \"\"\n# getting the sound name out of the directory\nwhile i > -1:\n\tif(path[i] != '\\\\'):\n\t\tsoundName += path[i]\n\telse:\n\t\tbreak\n\ti-=1\n# reverting it and putting it into lowercase",
+        "detail": "assets.sexmod.sounds.girls.ellie.moan.renameSounds",
+        "documentation": {}
+    },
+    {
+        "label": "soundName",
+        "kind": 5,
+        "importPath": "assets.sexmod.sounds.girls.ellie.moan.renameSounds",
+        "description": "assets.sexmod.sounds.girls.ellie.moan.renameSounds",
+        "peekOfCode": "soundName = \"\"\n# getting the sound name out of the directory\nwhile i > -1:\n\tif(path[i] != '\\\\'):\n\t\tsoundName += path[i]\n\telse:\n\t\tbreak\n\ti-=1\n# reverting it and putting it into lowercase\nsoundName = soundName[::-1].lower()",
+        "detail": "assets.sexmod.sounds.girls.ellie.moan.renameSounds",
+        "documentation": {}
+    },
+    {
+        "label": "soundName",
+        "kind": 5,
+        "importPath": "assets.sexmod.sounds.girls.ellie.moan.renameSounds",
+        "description": "assets.sexmod.sounds.girls.ellie.moan.renameSounds",
+        "peekOfCode": "soundName = soundName[::-1].lower()\ni = 0\n# actually renaming it\nfor file in os.listdir():\n\t# converting it into .ogg and renaming it\t\n\tif(file.endswith('.mp3')):\n\t\tAudioSegment.from_mp3(open(file, \"rb\")).export(soundName+str(i)+'.ogg', format='ogg')\n\t\tprint(\"turned \"+ file + \" into \" + soundName+str(i)+'.ogg')\n\t\tos.remove(file)\n\telif(file.endswith('.mp4')):",
+        "detail": "assets.sexmod.sounds.girls.ellie.moan.renameSounds",
+        "documentation": {}
+    },
+    {
+        "label": "i",
+        "kind": 5,
+        "importPath": "assets.sexmod.sounds.girls.ellie.moan.renameSounds",
+        "description": "assets.sexmod.sounds.girls.ellie.moan.renameSounds",
+        "peekOfCode": "i = 0\n# actually renaming it\nfor file in os.listdir():\n\t# converting it into .ogg and renaming it\t\n\tif(file.endswith('.mp3')):\n\t\tAudioSegment.from_mp3(open(file, \"rb\")).export(soundName+str(i)+'.ogg', format='ogg')\n\t\tprint(\"turned \"+ file + \" into \" + soundName+str(i)+'.ogg')\n\t\tos.remove(file)\n\telif(file.endswith('.mp4')):\n\t\tAudioSegment.from_file(file, \"mp4\").export(soundName+str(i)+'.ogg', format='ogg')",
+        "detail": "assets.sexmod.sounds.girls.ellie.moan.renameSounds",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "kind": 5,
+        "importPath": "assets.sexmod.sounds.girls.ellie.mommyhorny.renameSounds",
+        "description": "assets.sexmod.sounds.girls.ellie.mommyhorny.renameSounds",
+        "peekOfCode": "path = os.getcwd()\nlenght = len(path)-1\ni = lenght\nsoundName = \"\"\n# getting the sound name out of the directory\nwhile i > -1:\n\tif(path[i] != '\\\\'):\n\t\tsoundName += path[i]\n\telse:\n\t\tbreak",
+        "detail": "assets.sexmod.sounds.girls.ellie.mommyhorny.renameSounds",
+        "documentation": {}
+    },
+    {
+        "label": "lenght",
+        "kind": 5,
+        "importPath": "assets.sexmod.sounds.girls.ellie.mommyhorny.renameSounds",
+        "description": "assets.sexmod.sounds.girls.ellie.mommyhorny.renameSounds",
+        "peekOfCode": "lenght = len(path)-1\ni = lenght\nsoundName = \"\"\n# getting the sound name out of the directory\nwhile i > -1:\n\tif(path[i] != '\\\\'):\n\t\tsoundName += path[i]\n\telse:\n\t\tbreak\n\ti-=1",
+        "detail": "assets.sexmod.sounds.girls.ellie.mommyhorny.renameSounds",
+        "documentation": {}
+    },
+    {
+        "label": "i",
+        "kind": 5,
+        "importPath": "assets.sexmod.sounds.girls.ellie.mommyhorny.renameSounds",
+        "description": "assets.sexmod.sounds.girls.ellie.mommyhorny.renameSounds",
+        "peekOfCode": "i = lenght\nsoundName = \"\"\n# getting the sound name out of the directory\nwhile i > -1:\n\tif(path[i] != '\\\\'):\n\t\tsoundName += path[i]\n\telse:\n\t\tbreak\n\ti-=1\n# reverting it and putting it into lowercase",
+        "detail": "assets.sexmod.sounds.girls.ellie.mommyhorny.renameSounds",
+        "documentation": {}
+    },
+    {
+        "label": "soundName",
+        "kind": 5,
+        "importPath": "assets.sexmod.sounds.girls.ellie.mommyhorny.renameSounds",
+        "description": "assets.sexmod.sounds.girls.ellie.mommyhorny.renameSounds",
+        "peekOfCode": "soundName = \"\"\n# getting the sound name out of the directory\nwhile i > -1:\n\tif(path[i] != '\\\\'):\n\t\tsoundName += path[i]\n\telse:\n\t\tbreak\n\ti-=1\n# reverting it and putting it into lowercase\nsoundName = soundName[::-1].lower()",
+        "detail": "assets.sexmod.sounds.girls.ellie.mommyhorny.renameSounds",
+        "documentation": {}
+    },
+    {
+        "label": "soundName",
+        "kind": 5,
+        "importPath": "assets.sexmod.sounds.girls.ellie.mommyhorny.renameSounds",
+        "description": "assets.sexmod.sounds.girls.ellie.mommyhorny.renameSounds",
+        "peekOfCode": "soundName = soundName[::-1].lower()\ni = 0\n# actually renaming it\nfor file in os.listdir():\n\t# converting it into .ogg and renaming it\t\n\tif(file.endswith('.mp3')):\n\t\tAudioSegment.from_mp3(open(file, \"rb\")).export(soundName+str(i)+'.ogg', format='ogg')\n\t\tprint(\"turned \"+ file + \" into \" + soundName+str(i)+'.ogg')\n\t\tos.remove(file)\n\telif(file.endswith('.mp4')):",
+        "detail": "assets.sexmod.sounds.girls.ellie.mommyhorny.renameSounds",
+        "documentation": {}
+    },
+    {
+        "label": "i",
+        "kind": 5,
+        "importPath": "assets.sexmod.sounds.girls.ellie.mommyhorny.renameSounds",
+        "description": "assets.sexmod.sounds.girls.ellie.mommyhorny.renameSounds",
+        "peekOfCode": "i = 0\n# actually renaming it\nfor file in os.listdir():\n\t# converting it into .ogg and renaming it\t\n\tif(file.endswith('.mp3')):\n\t\tAudioSegment.from_mp3(open(file, \"rb\")).export(soundName+str(i)+'.ogg', format='ogg')\n\t\tprint(\"turned \"+ file + \" into \" + soundName+str(i)+'.ogg')\n\t\tos.remove(file)\n\telif(file.endswith('.mp4')):\n\t\tAudioSegment.from_file(file, \"mp4\").export(soundName+str(i)+'.ogg', format='ogg')",
+        "detail": "assets.sexmod.sounds.girls.ellie.mommyhorny.renameSounds",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "kind": 5,
+        "importPath": "assets.sexmod.sounds.girls.ellie.sadoh.renameSounds",
+        "description": "assets.sexmod.sounds.girls.ellie.sadoh.renameSounds",
+        "peekOfCode": "path = os.getcwd()\nlenght = len(path)-1\ni = lenght\nsoundName = \"\"\n# getting the sound name out of the directory\nwhile i > -1:\n\tif(path[i] != '\\\\'):\n\t\tsoundName += path[i]\n\telse:\n\t\tbreak",
+        "detail": "assets.sexmod.sounds.girls.ellie.sadoh.renameSounds",
+        "documentation": {}
+    },
+    {
+        "label": "lenght",
+        "kind": 5,
+        "importPath": "assets.sexmod.sounds.girls.ellie.sadoh.renameSounds",
+        "description": "assets.sexmod.sounds.girls.ellie.sadoh.renameSounds",
+        "peekOfCode": "lenght = len(path)-1\ni = lenght\nsoundName = \"\"\n# getting the sound name out of the directory\nwhile i > -1:\n\tif(path[i] != '\\\\'):\n\t\tsoundName += path[i]\n\telse:\n\t\tbreak\n\ti-=1",
+        "detail": "assets.sexmod.sounds.girls.ellie.sadoh.renameSounds",
+        "documentation": {}
+    },
+    {
+        "label": "i",
+        "kind": 5,
+        "importPath": "assets.sexmod.sounds.girls.ellie.sadoh.renameSounds",
+        "description": "assets.sexmod.sounds.girls.ellie.sadoh.renameSounds",
+        "peekOfCode": "i = lenght\nsoundName = \"\"\n# getting the sound name out of the directory\nwhile i > -1:\n\tif(path[i] != '\\\\'):\n\t\tsoundName += path[i]\n\telse:\n\t\tbreak\n\ti-=1\n# reverting it and putting it into lowercase",
+        "detail": "assets.sexmod.sounds.girls.ellie.sadoh.renameSounds",
+        "documentation": {}
+    },
+    {
+        "label": "soundName",
+        "kind": 5,
+        "importPath": "assets.sexmod.sounds.girls.ellie.sadoh.renameSounds",
+        "description": "assets.sexmod.sounds.girls.ellie.sadoh.renameSounds",
+        "peekOfCode": "soundName = \"\"\n# getting the sound name out of the directory\nwhile i > -1:\n\tif(path[i] != '\\\\'):\n\t\tsoundName += path[i]\n\telse:\n\t\tbreak\n\ti-=1\n# reverting it and putting it into lowercase\nsoundName = soundName[::-1].lower()",
+        "detail": "assets.sexmod.sounds.girls.ellie.sadoh.renameSounds",
+        "documentation": {}
+    },
+    {
+        "label": "soundName",
+        "kind": 5,
+        "importPath": "assets.sexmod.sounds.girls.ellie.sadoh.renameSounds",
+        "description": "assets.sexmod.sounds.girls.ellie.sadoh.renameSounds",
+        "peekOfCode": "soundName = soundName[::-1].lower()\ni = 0\n# actually renaming it\nfor file in os.listdir():\n\t# converting it into .ogg and renaming it\t\n\tif(file.endswith('.mp3')):\n\t\tAudioSegment.from_mp3(open(file, \"rb\")).export(soundName+str(i)+'.ogg', format='ogg')\n\t\tprint(\"turned \"+ file + \" into \" + soundName+str(i)+'.ogg')\n\t\tos.remove(file)\n\telif(file.endswith('.mp4')):",
+        "detail": "assets.sexmod.sounds.girls.ellie.sadoh.renameSounds",
+        "documentation": {}
+    },
+    {
+        "label": "i",
+        "kind": 5,
+        "importPath": "assets.sexmod.sounds.girls.ellie.sadoh.renameSounds",
+        "description": "assets.sexmod.sounds.girls.ellie.sadoh.renameSounds",
+        "peekOfCode": "i = 0\n# actually renaming it\nfor file in os.listdir():\n\t# converting it into .ogg and renaming it\t\n\tif(file.endswith('.mp3')):\n\t\tAudioSegment.from_mp3(open(file, \"rb\")).export(soundName+str(i)+'.ogg', format='ogg')\n\t\tprint(\"turned \"+ file + \" into \" + soundName+str(i)+'.ogg')\n\t\tos.remove(file)\n\telif(file.endswith('.mp4')):\n\t\tAudioSegment.from_file(file, \"mp4\").export(soundName+str(i)+'.ogg', format='ogg')",
+        "detail": "assets.sexmod.sounds.girls.ellie.sadoh.renameSounds",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "kind": 5,
+        "importPath": "assets.sexmod.sounds.girls.ellie.sigh.renameSounds",
+        "description": "assets.sexmod.sounds.girls.ellie.sigh.renameSounds",
+        "peekOfCode": "path = os.getcwd()\nlenght = len(path)-1\ni = lenght\nsoundName = \"\"\n# getting the sound name out of the directory\nwhile i > -1:\n\tif(path[i] != '\\\\'):\n\t\tsoundName += path[i]\n\telse:\n\t\tbreak",
+        "detail": "assets.sexmod.sounds.girls.ellie.sigh.renameSounds",
+        "documentation": {}
+    },
+    {
+        "label": "lenght",
+        "kind": 5,
+        "importPath": "assets.sexmod.sounds.girls.ellie.sigh.renameSounds",
+        "description": "assets.sexmod.sounds.girls.ellie.sigh.renameSounds",
+        "peekOfCode": "lenght = len(path)-1\ni = lenght\nsoundName = \"\"\n# getting the sound name out of the directory\nwhile i > -1:\n\tif(path[i] != '\\\\'):\n\t\tsoundName += path[i]\n\telse:\n\t\tbreak\n\ti-=1",
+        "detail": "assets.sexmod.sounds.girls.ellie.sigh.renameSounds",
+        "documentation": {}
+    },
+    {
+        "label": "i",
+        "kind": 5,
+        "importPath": "assets.sexmod.sounds.girls.ellie.sigh.renameSounds",
+        "description": "assets.sexmod.sounds.girls.ellie.sigh.renameSounds",
+        "peekOfCode": "i = lenght\nsoundName = \"\"\n# getting the sound name out of the directory\nwhile i > -1:\n\tif(path[i] != '\\\\'):\n\t\tsoundName += path[i]\n\telse:\n\t\tbreak\n\ti-=1\n# reverting it and putting it into lowercase",
+        "detail": "assets.sexmod.sounds.girls.ellie.sigh.renameSounds",
+        "documentation": {}
+    },
+    {
+        "label": "soundName",
+        "kind": 5,
+        "importPath": "assets.sexmod.sounds.girls.ellie.sigh.renameSounds",
+        "description": "assets.sexmod.sounds.girls.ellie.sigh.renameSounds",
+        "peekOfCode": "soundName = \"\"\n# getting the sound name out of the directory\nwhile i > -1:\n\tif(path[i] != '\\\\'):\n\t\tsoundName += path[i]\n\telse:\n\t\tbreak\n\ti-=1\n# reverting it and putting it into lowercase\nsoundName = soundName[::-1].lower()",
+        "detail": "assets.sexmod.sounds.girls.ellie.sigh.renameSounds",
+        "documentation": {}
+    },
+    {
+        "label": "soundName",
+        "kind": 5,
+        "importPath": "assets.sexmod.sounds.girls.ellie.sigh.renameSounds",
+        "description": "assets.sexmod.sounds.girls.ellie.sigh.renameSounds",
+        "peekOfCode": "soundName = soundName[::-1].lower()\ni = 0\n# actually renaming it\nfor file in os.listdir():\n\t# converting it into .ogg and renaming it\t\n\tif(file.endswith('.mp3')):\n\t\tAudioSegment.from_mp3(open(file, \"rb\")).export(soundName+str(i)+'.ogg', format='ogg')\n\t\tprint(\"turned \"+ file + \" into \" + soundName+str(i)+'.ogg')\n\t\tos.remove(file)\n\telif(file.endswith('.mp4')):",
+        "detail": "assets.sexmod.sounds.girls.ellie.sigh.renameSounds",
+        "documentation": {}
+    },
+    {
+        "label": "i",
+        "kind": 5,
+        "importPath": "assets.sexmod.sounds.girls.ellie.sigh.renameSounds",
+        "description": "assets.sexmod.sounds.girls.ellie.sigh.renameSounds",
+        "peekOfCode": "i = 0\n# actually renaming it\nfor file in os.listdir():\n\t# converting it into .ogg and renaming it\t\n\tif(file.endswith('.mp3')):\n\t\tAudioSegment.from_mp3(open(file, \"rb\")).export(soundName+str(i)+'.ogg', format='ogg')\n\t\tprint(\"turned \"+ file + \" into \" + soundName+str(i)+'.ogg')\n\t\tos.remove(file)\n\telif(file.endswith('.mp4')):\n\t\tAudioSegment.from_file(file, \"mp4\").export(soundName+str(i)+'.ogg', format='ogg')",
+        "detail": "assets.sexmod.sounds.girls.ellie.sigh.renameSounds",
+        "documentation": {}
+    },
+    {
+        "label": "normalize_ogg_files",
+        "kind": 2,
+        "importPath": "assets.sexmod.sounds.normalizse",
+        "description": "assets.sexmod.sounds.normalizse",
+        "peekOfCode": "def normalize_ogg_files(directory=\".\"):\n    normalized_folder = os.path.join(directory, \"normalized\")\n    # Create the \"normalized\" folder if it doesn't exist\n    if not os.path.exists(normalized_folder):\n        os.makedirs(normalized_folder)\n    for filename in os.listdir(directory):\n        if filename.endswith(\".ogg\"):\n            input_path = os.path.join(directory, filename)\n            # Construct the output path in the \"normalized\" folder\n            output_path = os.path.join(normalized_folder, filename)",
+        "detail": "assets.sexmod.sounds.normalizse",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "kind": 5,
+        "importPath": "assets.sexmod.sounds.renameSounds",
+        "description": "assets.sexmod.sounds.renameSounds",
+        "peekOfCode": "path = os.getcwd()\nlenght = len(path)-1\ni = lenght\nsoundName = \"\"\n# getting the sound name out of the directory\nwhile i > -1:\n\tif(path[i] != '\\\\'):\n\t\tsoundName += path[i]\n\telse:\n\t\tbreak",
+        "detail": "assets.sexmod.sounds.renameSounds",
+        "documentation": {}
+    },
+    {
+        "label": "lenght",
+        "kind": 5,
+        "importPath": "assets.sexmod.sounds.renameSounds",
+        "description": "assets.sexmod.sounds.renameSounds",
+        "peekOfCode": "lenght = len(path)-1\ni = lenght\nsoundName = \"\"\n# getting the sound name out of the directory\nwhile i > -1:\n\tif(path[i] != '\\\\'):\n\t\tsoundName += path[i]\n\telse:\n\t\tbreak\n\ti-=1",
+        "detail": "assets.sexmod.sounds.renameSounds",
+        "documentation": {}
+    },
+    {
+        "label": "i",
+        "kind": 5,
+        "importPath": "assets.sexmod.sounds.renameSounds",
+        "description": "assets.sexmod.sounds.renameSounds",
+        "peekOfCode": "i = lenght\nsoundName = \"\"\n# getting the sound name out of the directory\nwhile i > -1:\n\tif(path[i] != '\\\\'):\n\t\tsoundName += path[i]\n\telse:\n\t\tbreak\n\ti-=1\n# reverting it and putting it into lowercase",
+        "detail": "assets.sexmod.sounds.renameSounds",
+        "documentation": {}
+    },
+    {
+        "label": "soundName",
+        "kind": 5,
+        "importPath": "assets.sexmod.sounds.renameSounds",
+        "description": "assets.sexmod.sounds.renameSounds",
+        "peekOfCode": "soundName = \"\"\n# getting the sound name out of the directory\nwhile i > -1:\n\tif(path[i] != '\\\\'):\n\t\tsoundName += path[i]\n\telse:\n\t\tbreak\n\ti-=1\n# reverting it and putting it into lowercase\nsoundName = soundName[::-1].lower()",
+        "detail": "assets.sexmod.sounds.renameSounds",
+        "documentation": {}
+    },
+    {
+        "label": "soundName",
+        "kind": 5,
+        "importPath": "assets.sexmod.sounds.renameSounds",
+        "description": "assets.sexmod.sounds.renameSounds",
+        "peekOfCode": "soundName = soundName[::-1].lower()\ni = 0\n# actually renaming it\nfor file in os.listdir():\n\t# converting it into .ogg and renaming it\t\n\tif(file.endswith('.mp3')):\n\t\tAudioSegment.from_mp3(open(file, \"rb\")).export(soundName+str(i)+'.ogg', format='ogg')\n\t\tprint(\"turned \"+ file + \" into \" + soundName+str(i)+'.ogg')\n\t\tos.remove(file)\n\telif(file.endswith('.mp4')):",
+        "detail": "assets.sexmod.sounds.renameSounds",
+        "documentation": {}
+    },
+    {
+        "label": "i",
+        "kind": 5,
+        "importPath": "assets.sexmod.sounds.renameSounds",
+        "description": "assets.sexmod.sounds.renameSounds",
+        "peekOfCode": "i = 0\n# actually renaming it\nfor file in os.listdir():\n\t# converting it into .ogg and renaming it\t\n\tif(file.endswith('.mp3')):\n\t\tAudioSegment.from_mp3(open(file, \"rb\")).export(soundName+str(i)+'.ogg', format='ogg')\n\t\tprint(\"turned \"+ file + \" into \" + soundName+str(i)+'.ogg')\n\t\tos.remove(file)\n\telif(file.endswith('.mp4')):\n\t\tAudioSegment.from_file(file, \"mp4\").export(soundName+str(i)+'.ogg', format='ogg')",
+        "detail": "assets.sexmod.sounds.renameSounds",
+        "documentation": {}
+    },
+    {
+        "label": "data",
+        "kind": 5,
+        "importPath": "assets.sexmod.sounds.writeSoundFile",
+        "description": "assets.sexmod.sounds.writeSoundFile",
+        "peekOfCode": "data = {}\nfor dirpath, dirnames, filenames in os.walk(\".\"):\n    for filename in [f for f in filenames if f.endswith(\".ogg\")]:\n        objectname = os.path.join(dirpath, filename)[2:-4].replace(\"\\\\\", \".\")\n        path = \"sexmod:\" + os.path.join(dirpath, filename)[2:-4].replace(\"\\\\\", \"/\")   \n        nameEnd = -1\n        nameStart = -1\n        while objectname[nameEnd].isdigit():\n            nameEnd-=1\n        while not objectname[nameStart] == \".\":",
+        "detail": "assets.sexmod.sounds.writeSoundFile",
+        "documentation": {}
+    }
+]
